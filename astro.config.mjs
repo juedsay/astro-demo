@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
-import vercel from "@astrojs/adapter-vercel";
+import vercel from "@astrojs/vercel";
 import preact from "@astrojs/preact";
 
 // https://astro.build/config
